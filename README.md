@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @b0ggxb0ii
+- 👋 Hi, I’m @saintugly
 - 👀 I’m interested in learning software development, data analytics, and the future of tech.
 - 🌱 I’m currently learning C#, Python, Node.js, F#, and more to come...
 - 💞️ I’m looking to collaborate on Open Source Projects and learning direct from developers
